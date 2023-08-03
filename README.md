@@ -1,5 +1,6 @@
 # research-on-stock-market-prediction-using-CNN
 Bachelor Graduate Project
+For academic use, please contact charlesdjl@qq.com for the full version of this paper.
 
 ## Data Preparation
 The experimental data in this study came from the api data interface provided by Tushare Big Data community (https://waditu.com/). The community has a wealth of data content, stocks, funds, futures, digital currency and other market data can be limited access, through the corresponding technology to the Shanghai Composite Index "four price" data in the form of csv table download backup.
